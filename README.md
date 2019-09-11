@@ -27,12 +27,12 @@
 | 04/09/2019 | Security Vulnerability
 | 09/09/2019 | Windows Debugger | WinDbg_A_to_Z
 | 11/09/2019 | Windows Heap Internals (1/3) - Standard Heap
-| 16/09/2019 | No class (Chuseok, Korean Harvest Day)
-| 18/09/2019 | Windows Heap Internals (2/3) - Windows 7 LFH Heap | Win7 LFH Heap
-| 23/09/2019 | Windows Heap Internals (3/3) - Windows 10 LFH Heap | Win10 Segment Heap Internals<br>Report #1
-| 25/09/2019 | Custom Heap Manager (1/3) - About Flash
-| 30/09/2019 | Custom Heap Manager (2/3) - About Chrome
-| 02/10/2019 | Custom Heap Manager (3/3) - About Chrome | Report #2
+| 16/09/2019 | Windows Heap Internals (2/3) - Windows 7 LFH Heap | Win7 LFH Heap
+| 18/09/2019 | Windows Heap Internals (3/3) - Windows 10 LFH Heap | Win10 Segment Heap Internals<br>Report #1
+| 23/09/2019 | Custom Heap Manager (1/4) - About Flash
+| 25/09/2019 | Custom Heap Manager (2/4) - About Chrome
+| 30/09/2019 | Custom Heap Manager (3/4) - About Chrome 
+| 02/10/2019 | Custom Heap Manager (4/4) - About Chrome | Report #2
 | 07/10/2019 | Objects Tracking (1/3) - C++ Objects | Reversing C++
 | 09/10/2019 | No class (National Foundation Day)
 | 14/10/2019 | Objects Tracking (2/3) - Flash Objects
