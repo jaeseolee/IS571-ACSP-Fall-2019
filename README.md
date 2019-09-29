@@ -30,7 +30,7 @@
 | 16/09/2019 | Windows Heap Internals (2/3) - Windows 7 LFH Heap | Win7 LFH Heap
 | 18/09/2019 | Windows Heap Internals (3/3) - Windows 10 LFH Heap | Win10 Segment Heap Internals
 | 23/09/2019 | Custom Heap Manager (1/2) - About Flash
-| 25/09/2019 | Custom Heap Manager (2/2) - About Chrome | Report #1  (~10.16.)
+| 25/09/2019 | Custom Heap Manager (2/2) - About Chrome | Report #1  (~10.16.)<br><a href='https://docs.microsoft.com/ko-kr/windows/win32/secauthz/access-tokens'>Access Tokens</a>, <a href='https://docs.microsoft.com/en-us/windows/win32/procthread/job-objects'>Job Objects</a>, <a href='https://docs.microsoft.com/ko-kr/windows/win32/secauthz/securable-objects'>Securable Objects</a>
 | 30/09/2019 | Objects Tracking (1/4) - C++ Objects | Reversing C++
 | 02/10/2019 | Objects Tracking (2/4) - Flash Objects
 | 07/10/2019 | Objects Tracking (3/4) - Chrome Objects
